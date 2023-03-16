@@ -13,7 +13,7 @@ func main() {
 	fmt.Println(b, c)
 
 	/*
-			intVal := 1 相等于：
+			intVal := 1 
 
 		var intVal int
 		intVal =1
